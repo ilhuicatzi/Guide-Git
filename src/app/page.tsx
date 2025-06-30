@@ -1,7 +1,9 @@
-
+import { GitGuide } from "@/content/GitGuide"
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <div>
+      <GitGuide />
+    </div>
   )
 }
 
