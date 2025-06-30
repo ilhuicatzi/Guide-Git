@@ -558,7 +558,7 @@ export function Header() {
                                 <div className="space-y-2">
                                     <p>Usa editores modernos que facilitan la resolución:</p>
                                     <ul className="list-disc list-inside space-y-1 text-sm">
-                                        <li><strong>VS Code:</strong> Resalta conflictos y ofrece botones "Accept Current", "Accept Incoming", "Accept Both"</li>
+                                        <li><strong>VS Code:</strong> Resalta conflictos y ofrece botones &quot;Accept Current&quot;, &quot;Accept Incoming&quot;, &quot;Accept Both&quot;</li>
                                         <li><strong>Git Mergetool:</strong> <code className="bg-muted px-1 py-0.5 rounded">git mergetool</code> para herramientas visuales</li>
                                         <li><strong>GitHub Desktop:</strong> Interfaz visual intuitiva para resolución de conflictos</li>
                                     </ul>
@@ -817,7 +817,7 @@ ssh -T git@github.com`}
                                         <ul className="space-y-2">
                                             <li className="flex items-start gap-2">
                                                 <CheckCircle className="h-4 w-4 text-green-500 mt-0.5 flex-shrink-0" />
-                                                <span>Escribe mensajes descriptivos que expliquen el "por qué"</span>
+                                                <span>Escribe mensajes descriptivos que expliquen el &quot;por qué&quot;</span>
                                             </li>
                                             <li className="flex items-start gap-2">
                                                 <CheckCircle className="h-4 w-4 text-green-500 mt-0.5 flex-shrink-0" />
